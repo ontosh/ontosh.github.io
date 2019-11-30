@@ -13,6 +13,7 @@ public class LinkListed {
 		numberLinkedLIst.add(56);
 		numberLinkedLIst.add(67);
 		numberLinkedLIst.add(78);
+		numberLinkedLIst.add(93);
 		
 		//using lamda expression
 		
